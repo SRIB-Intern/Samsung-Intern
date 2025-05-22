@@ -1,1 +1,1 @@
-import pytorch
+a = 10
